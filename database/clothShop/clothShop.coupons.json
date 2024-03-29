@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "65d4ec7ec70b86c3435da562"
+  },
+  "name": "PAYTMBUS",
+  "price": "150",
+  "active": true,
+  "createdAt": {
+    "$date": "2024-02-20T18:16:08.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-20T18:17:18.487Z"
+  },
+  "__v": 0
+}]

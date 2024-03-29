@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65d632df5945e7cbeeae0894"
+  },
+  "productIds": [
+    "kjshdfh238fajshflfdf",
+    "kjshdfh238fajshfl"
+  ],
+  "productPrice": [
+    50,
+    50
+  ],
+  "orderTotal": "100",
+  "createdAt": {
+    "$date": "2024-02-21T17:11:53.684Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-21T17:29:50.818Z"
+  },
+  "__v": 0
+}]

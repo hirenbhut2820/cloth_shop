@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "65d4e8555dcfa7c13063a231"
+  },
+  "name": "Nike ter",
+  "brandLogo": "nike",
+  "createdAt": {
+    "$date": "2024-02-20T17:58:44.410Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-20T17:59:38.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb29a441e8e3cad297ee9f"
+  },
+  "name": "testing brand",
+  "brandLogo": "test",
+  "createdAt": {
+    "$date": "2024-03-15T05:52:05.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T19:11:13.682Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2024-03-20T19:11:13.681Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb29c541e8e3cad297eea3"
+  },
+  "name": "Testing brand",
+  "brandLogo": "test",
+  "createdAt": {
+    "$date": "2024-03-15T05:52:05.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T19:11:12.310Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2024-03-20T19:11:12.310Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb2a1641e8e3cad297eea6"
+  },
+  "name": "dsfsdf",
+  "brandLogo": "test",
+  "createdAt": {
+    "$date": "2024-03-15T05:52:05.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T19:11:11.098Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2024-03-20T19:11:11.098Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb316b41e8e3cad297eeb5"
+  },
+  "name": "fsdfsdf",
+  "brandLogo": "test",
+  "createdAt": {
+    "$date": "2024-03-15T05:52:05.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T19:11:09.350Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2024-03-20T19:11:09.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb353341e8e3cad297eed9"
+  },
+  "name": "Testing brand",
+  "brandLogo": "test",
+  "createdAt": {
+    "$date": "2024-03-15T05:52:05.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T19:13:01.949Z"
+  },
+  "__v": 0
+}]

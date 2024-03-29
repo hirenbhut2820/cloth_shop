@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "65d39c2952d678030464b437"
+  },
+  "authToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1YjdlMGM1MmY5NWQxYTIxMmNhMDAxNiIsImVtYWlsIjoidGVzdEBnbWFpbC5jb20iLCJpYXQiOjE3MDgzNjY4ODl9.OGJcZgICDGwdURGVRz9KFzDQJHdTiAZhFFB0mPCM5LE",
+  "userId": {
+    "$oid": "65b7e0c52f95d1a212ca0016"
+  },
+  "createdAt": {
+    "$date": "2024-02-19T18:21:29.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T18:21:29.877Z"
+  },
+  "__v": 0
+}]

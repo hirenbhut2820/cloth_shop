@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "65d3a17d59c83a50ec88d64d"
+  },
+  "name": "men te",
+  "description": "men category",
+  "productIds": [],
+  "createdAt": {
+    "$date": "2024-02-19T18:44:11.864Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-20T17:17:51.773Z"
+  },
+  "__v": 0
+}]
